@@ -1,0 +1,14 @@
+{
+  "delta_t": 0.00125,
+  "dimension": 2,
+  "end_time": 0.5,
+  "extent": [0.1, 0.1],
+  "fields": ["U", "p"],
+  "mesh_cells": [64, 64, 1],
+  "openfoam_distribution": "OpenFOAM Foundation",
+  "openfoam_version": "7",
+  "origin": [0.0, 0.0],
+  "quadtree_level": 6,
+  "source_tutorial": "incompressible/icoFoam/cavity/cavity",
+  "time_frames_including_initial": 401
+}

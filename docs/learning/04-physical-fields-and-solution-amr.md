@@ -220,8 +220,12 @@ This is still a correctness reference rather than a production AMR backend:
 - prolongation is constant rather than limited second order;
 - wavelet detail uses a first-order parent prediction;
 - only cell-centred fields are implemented;
-- no ghost cells, physical faces, flux registers, or refluxing exist yet;
+- physical face/ghost topology and reflux bookkeeping now live in the next
+  learning layer, but boundary-value filling and PDE fluxes are not implemented;
 - the checkpoint format is serial and stores flat leaf arrays;
 - adaptation performs one solution-requested level per call.
 
 These limitations give the next numerical steps clear, testable boundaries.
+
+Continue with
+[`AMR finite-volume data from first principles`](06-amr-finite-volume-data.md).

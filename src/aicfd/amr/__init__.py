@@ -1,6 +1,7 @@
 """Deterministic solution-driven adaptive mesh refinement."""
 
 from aicfd.amr.adaptation import SolutionAdaptationReport, adapt_solution
+from aicfd.amr.flux_register import FluxRegister
 from aicfd.amr.indicators import (
     Indicator,
     IndicatorResult,
@@ -17,6 +18,7 @@ from aicfd.amr.policy import (
 
 __all__ = [
     "GeometryLevelFloor",
+    "FluxRegister",
     "Indicator",
     "IndicatorResult",
     "LevelFloor",

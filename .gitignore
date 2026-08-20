@@ -209,6 +209,10 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# Generated CFD runs and converted datasets
+.data/
+.runs/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/

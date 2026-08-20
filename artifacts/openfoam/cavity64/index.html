@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ai-native-cfd cavity64 trajectory</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+        background: #e2e8f0;
+        color: #0f172a;
+      }
+      body { margin: 0; padding: 32px; }
+      header { max-width: 960px; margin: 0 auto 28px; }
+      h1 { margin: 0 0 8px; font-size: 28px; }
+      p { color: #475569; line-height: 1.5; }
+      main {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
+        gap: 22px;
+        max-width: 1500px;
+        margin: auto;
+      }
+      article {
+        overflow: hidden;
+        border: 1px solid #cbd5e1;
+        border-radius: 10px;
+        background: white;
+        box-shadow: 0 5px 18px rgb(15 23 42 / 8%);
+      }
+      article div { padding: 16px 18px 4px; }
+      h2 { margin: 0; font-size: 18px; }
+      article p { margin: 7px 0 10px; font-size: 14px; }
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border-top: 1px solid #e2e8f0;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>OpenFOAM cavity64 trajectory</h1>
+      <p>
+        Cell-centred fields from the 64 by 64 lid-driven cavity at the initial,
+        middle, and final physical times. All panels use a common scale over the
+        full trajectory. Pressure is mean-centred and its display range is clipped
+        symmetrically at the 99th percentile; stored values remain unchanged.
+      </p>
+    </header>
+    <main>
+      <article>
+        <div><h2>Speed — t = 0 s</h2><p>Initial interior velocity.</p></div>
+        <img src="speed-t0.svg" alt="Initial cavity speed">
+      </article>
+      <article>
+        <div><h2>Pressure — t = 0 s</h2><p>Initial centered pressure.</p></div>
+        <img src="pressure-t0.svg" alt="Initial cavity centered pressure">
+      </article>
+      <article>
+        <div><h2>Speed — t = 0.25 s</h2><p>The lid-driven circulation has developed.</p></div>
+        <img src="speed-t0p25.svg" alt="Cavity speed at 0.25 seconds">
+      </article>
+      <article>
+        <div><h2>Pressure — t = 0.25 s</h2><p>Opposite corner extrema enforce the turn.</p></div>
+        <img src="pressure-t0p25.svg" alt="Cavity centered pressure at 0.25 seconds">
+      </article>
+      <article>
+        <div><h2>Speed — t = 0.5 s</h2><p>The low-Reynolds-number flow is near steady.</p></div>
+        <img src="speed-t0p5.svg" alt="Cavity speed at 0.5 seconds">
+      </article>
+      <article>
+        <div><h2>Pressure — t = 0.5 s</h2><p>The pressure pattern is nearly settled.</p></div>
+        <img src="pressure-t0p5.svg" alt="Cavity centered pressure at 0.5 seconds">
+      </article>
+    </main>
+  </body>
+</html>

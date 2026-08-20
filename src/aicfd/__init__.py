@@ -1,6 +1,7 @@
 """Public package interface for ai-native-cfd."""
 
 from aicfd.amr import (
+    FluxRegister,
     GeometryLevelFloor,
     Indicator,
     IndicatorResult,
@@ -15,20 +16,26 @@ from aicfd.amr import (
 )
 from aicfd.fields import (
     CellField,
+    FaceField,
     FieldLocation,
     FieldSpec,
     MeasureProvider,
     State,
     TopologyAdaptationReport,
+    Trajectory,
+    TrajectoryField,
     TreeLayout,
     ValueRepresentation,
     adapt_state_topology,
     field_total,
     load_checkpoint,
+    load_trajectory,
     measures_from_provider,
     remap_state,
     write_checkpoint,
+    write_trajectory,
 )
+from aicfd.fvm import flux_divergence
 from aicfd.geometry import (
     AdaptationReport,
     BoundarySample2D,
@@ -42,10 +49,25 @@ from aicfd.geometry import (
     adapt_to_obstacle,
     snap_to_obstacle,
 )
-from aicfd.representation import AdaptiveTree, Cell
+from aicfd.representation import (
+    AdaptiveTree,
+    AMRHierarchy,
+    AMRLevel,
+    Cell,
+    FaceIncidence,
+    FaceKey,
+    FaceRelation,
+    FaceSegment,
+    FaceTopology,
+    GhostSlot,
+    GhostSourceKind,
+    GhostTopology,
+)
 
 __all__ = [
     "AdaptationReport",
+    "AMRHierarchy",
+    "AMRLevel",
     "AdaptiveTree",
     "BoundarySample2D",
     "BoundaryVertex2D",
@@ -55,8 +77,18 @@ __all__ = [
     "DistanceBand",
     "FieldLocation",
     "FieldSpec",
+    "FaceField",
+    "FaceIncidence",
+    "FaceKey",
+    "FaceRelation",
+    "FaceSegment",
+    "FaceTopology",
+    "FluxRegister",
     "GeometryLevelFloor",
     "GeometryRefinementPolicy",
+    "GhostSlot",
+    "GhostSourceKind",
+    "GhostTopology",
     "Indicator",
     "IndicatorResult",
     "LevelFloor",
@@ -69,6 +101,8 @@ __all__ = [
     "SolutionAdaptationReport",
     "SolutionRefinementPolicy",
     "TopologyAdaptationReport",
+    "Trajectory",
+    "TrajectoryField",
     "TreeLayout",
     "ValueRepresentation",
     "ValueRangeIndicator",
@@ -78,10 +112,13 @@ __all__ = [
     "adapt_to_obstacle",
     "combine_indicators",
     "field_total",
+    "flux_divergence",
     "load_checkpoint",
+    "load_trajectory",
     "measures_from_provider",
     "remap_state",
     "snap_to_obstacle",
     "write_checkpoint",
+    "write_trajectory",
 ]
 __version__ = "0.1.0"

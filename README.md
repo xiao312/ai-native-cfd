@@ -16,7 +16,7 @@ The same dimension-independent code handles all three cases.
 
 ## Current scope
 
-The package currently provides seven small layers:
+The package currently provides a collection of small, independently testable layers:
 
 - `Cell` identifies one cell by its refinement level and integer grid index;
 - `AdaptiveTree` owns the current leaf cells and implements refinement,
@@ -33,6 +33,18 @@ The package currently provides seven small layers:
   2:1 balance, and cell budgets.
 - `aicfd.visualization` renders those discretizations as self-contained SVG files,
   colored by tree level, cell classification, or fluid fraction.
+- `Trajectory` stores many physical states on one fixed `TreeLayout` without
+  repeating topology, using transparent JSON and compressed NumPy arrays.
+- `aicfd.io.openfoam` reads controlled ASCII `volScalarField` and
+  `volVectorField` outputs and maps Cartesian cell centres into quadtree order.
+- Field SVG rendering displays scalar components or vector magnitudes directly on
+  adaptive leaves.
+- `AMRHierarchy`, `FaceTopology`, and `GhostTopology` expose active/covered cells,
+  non-overlapping same-level and coarse-fine face segments, and stencil-source
+  recipes in one, two, or three dimensions.
+- `FaceField`, `flux_divergence`, and `FluxRegister` provide oriented normal-flux
+  storage, a reference finite-volume balance, and conservative coarse/fine
+  refluxing.
 
 This is an educational reference implementation. It favors direct algorithms and
 clear invariants over performance. In particular, neighbour searches are currently
@@ -83,6 +95,10 @@ The third explains the
 [`SVG visualization layers`](docs/learning/03-visualizing-geometry.md), and the
 fourth introduces
 [`physical fields and solution-driven AMR`](docs/learning/04-physical-fields-and-solution-amr.md).
+The fifth walks through
+[`OpenFOAM trajectory import`](docs/learning/05-openfoam-trajectories.md), and the
+sixth builds the
+[`AMR finite-volume hierarchy, faces, ghosts, and flux registers`](docs/learning/06-amr-finite-volume-data.md).
 The research notes record what we found about the historical
 [`OpenFOAM dolphin mesh`](docs/research/01-openfoam-dolphin.md), the deferred
 [`cut-cell quality framework`](docs/research/02-cut-cell-quality.md), and the
@@ -105,12 +121,28 @@ conserved scalar integral, and also runs no CFD solver:
 uv run python examples/field_amr.py
 ```
 
+The AMR finite-volume example constructs explicit face and ghost topology, checks
+a zero-divergence constant flux, and repairs one coarse/fine flux mismatch:
+
+```bash
+uv run python examples/amr_finite_volume.py
+```
+
+The first external-solver experiment records 401 states of a 64 by 64 lid-driven
+cavity on SCNet's Wuzhen CPU cluster, then imports them into a level-6 quadtree
+trajectory. See
+[`docs/learning/05-openfoam-trajectories.md`](docs/learning/05-openfoam-trajectories.md)
+for the beginner-oriented walkthrough and server workflow.
+
 ## Near-term roadmap
 
-1. Build physical face segments across coarse-fine and cut-cell interfaces.
-2. Add limited second-order prolongation and local gradient reconstruction.
-3. Add scalar-field visualization/export on adaptive leaves.
-4. Implement a manufactured scalar advection-diffusion problem and refluxing.
-5. Add narrow-gap detection and the deferred cut-cell quality diagnostics.
-6. Add offline OpenFOAM snapshot readers and projection utilities.
-7. Introduce learned refinement policies behind deterministic safety controls.
+1. Add physical boundary-condition evaluators and ghost-value filling.
+2. Add embedded-obstacle face fragments to the finite-volume face topology.
+3. Add limited second-order prolongation and local gradient reconstruction.
+4. Conservatively coarsen the imported cavity trajectory onto one shared AMR
+   topology.
+5. Implement a manufactured scalar advection-diffusion problem with one global
+   time step; exercise the flux register when local subcycling is introduced.
+6. Add narrow-gap detection and the deferred cut-cell quality diagnostics.
+7. Add general OpenFOAM-to-octree overlap projection for non-aligned meshes.
+8. Introduce learned refinement policies behind deterministic safety controls.

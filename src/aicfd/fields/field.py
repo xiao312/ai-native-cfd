@@ -19,6 +19,7 @@ class FieldLocation(str, Enum):
     """Where a field value is located relative to a mesh element."""
 
     CELL = "cell"
+    FACE = "face"
     FACE_X = "face_x"
     FACE_Y = "face_y"
     FACE_Z = "face_z"
@@ -31,6 +32,8 @@ class ValueRepresentation(str, Enum):
 
     CELL_AVERAGE = "cell_average"
     CELL_INTEGRAL = "cell_integral"
+    FACE_AVERAGE = "face_average"
+    FACE_INTEGRAL = "face_integral"
     POINT_VALUE = "point_value"
 
 
@@ -163,6 +166,12 @@ class CellField:
     ) -> None:
         if spec.location is not FieldLocation.CELL:
             raise ValueError("CellField currently supports only cell-located data")
+        if spec.value_representation not in (
+            ValueRepresentation.CELL_AVERAGE,
+            ValueRepresentation.CELL_INTEGRAL,
+            ValueRepresentation.POINT_VALUE,
+        ):
+            raise ValueError("CellField requires a cell-compatible representation")
 
         array = np.array(values, dtype=spec.dtype, copy=True)
         expected_shape = (

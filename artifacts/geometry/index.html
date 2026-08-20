@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ai-native-cfd geometry gallery</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+        background: #e2e8f0;
+        color: #0f172a;
+      }
+      body {
+        margin: 0;
+        padding: 32px;
+      }
+      header {
+        max-width: 900px;
+        margin: 0 auto 28px;
+      }
+      h1 {
+        margin: 0 0 8px;
+        font-size: 28px;
+      }
+      p {
+        color: #475569;
+        line-height: 1.5;
+      }
+      main {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
+        gap: 22px;
+        max-width: 1500px;
+        margin: auto;
+      }
+      article {
+        overflow: hidden;
+        border: 1px solid #cbd5e1;
+        border-radius: 10px;
+        background: white;
+        box-shadow: 0 5px 18px rgb(15 23 42 / 8%);
+      }
+      article div {
+        padding: 16px 18px 4px;
+      }
+      h2 {
+        margin: 0;
+        font-size: 18px;
+      }
+      article p {
+        margin: 7px 0 10px;
+        font-size: 14px;
+      }
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border-top: 1px solid #e2e8f0;
+      }
+      code {
+        padding: 2px 5px;
+        border-radius: 4px;
+        background: #f1f5f9;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Adaptive geometry discretizations</h1>
+      <p>
+        These images use the same quadtree and clipped geometry data through three
+        diagnostic views. They do not contain a CFD solution.
+      </p>
+    </header>
+    <main>
+      <article>
+        <div>
+          <h2>Circle — refinement levels</h2>
+          <p>Darker blue means a deeper quadtree level.</p>
+        </div>
+        <img src="circle-levels.svg" alt="Circle with cells colored by level">
+      </article>
+      <article>
+        <div>
+          <h2>NACA 0012 — refinement levels</h2>
+          <p>Leading- and trailing-edge features drive the finest local cells.</p>
+        </div>
+        <img src="naca0012-levels.svg" alt="NACA 0012 with cells colored by level">
+      </article>
+      <article>
+        <div>
+          <h2>Circle — cell classification</h2>
+          <p>White is fluid, orange is cut, and grey is solid.</p>
+        </div>
+        <img
+          src="circle-classification.svg"
+          alt="Circle with fluid, cut, and solid cell classifications"
+        >
+      </article>
+      <article>
+        <div>
+          <h2>NACA 0012 — cell classification</h2>
+          <p>The thin body exposes how the obstacle cuts Cartesian leaves.</p>
+        </div>
+        <img
+          src="naca0012-classification.svg"
+          alt="NACA 0012 with fluid, cut, and solid cell classifications"
+        >
+      </article>
+      <article>
+        <div>
+          <h2>Circle — embedded-boundary debug view</h2>
+          <p>
+            Fill is fluid fraction <code>chi</code>; magenta points are clipped
+            intersections and red arrows are outward normals.
+          </p>
+        </div>
+        <img src="circle-debug.svg" alt="Circle fluid fractions, points, and normals">
+      </article>
+      <article>
+        <div>
+          <h2>NACA 0012 — embedded-boundary debug view</h2>
+          <p>
+            The overlays expose the boundary data that a later cut-cell solver will
+            consume.
+          </p>
+        </div>
+        <img
+          src="naca0012-debug.svg"
+          alt="NACA 0012 fluid fractions, points, and normals"
+        >
+      </article>
+    </main>
+  </body>
+</html>

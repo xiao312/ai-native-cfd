@@ -1,26 +1,27 @@
-"""Public package interface for ai-native-cfd."""
+"""Two-dimensional obstacle geometry and embedded-boundary utilities."""
 
-from aicfd.geometry import (
+from aicfd.geometry.adaptation import (
     AdaptationReport,
-    BoundarySample2D,
-    BoundaryVertex2D,
-    CellClassification,
     DistanceBand,
     GeometryRefinementPolicy,
-    Obstacle2D,
+    adapt_to_obstacle,
+)
+from aicfd.geometry.embedded_boundary import (
+    CellClassification,
     SnappedCell2D,
     SnappedGeometry2D,
-    adapt_to_obstacle,
     snap_to_obstacle,
 )
-from aicfd.representation import AdaptiveTree, Cell
+from aicfd.geometry.obstacle import (
+    BoundarySample2D,
+    BoundaryVertex2D,
+    Obstacle2D,
+)
 
 __all__ = [
     "AdaptationReport",
-    "AdaptiveTree",
     "BoundarySample2D",
     "BoundaryVertex2D",
-    "Cell",
     "CellClassification",
     "DistanceBand",
     "GeometryRefinementPolicy",
@@ -30,4 +31,3 @@ __all__ = [
     "adapt_to_obstacle",
     "snap_to_obstacle",
 ]
-__version__ = "0.1.0"

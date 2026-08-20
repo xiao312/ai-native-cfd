@@ -4,8 +4,9 @@
 representations and AI-enhanced numerical methods for computational fluid
 dynamics.
 
-The project is deliberately starting below the CFD-solver level. Its first task is
-to represent an adaptive Cartesian mesh clearly and correctly in Python:
+The project is deliberately starting below the CFD-solver level. Its first tasks
+are to represent an adaptive Cartesian mesh clearly and correctly in Python and to
+embed two-dimensional obstacle geometry in that hierarchy:
 
 - a binary tree in one dimension;
 - a quadtree in two dimensions;
@@ -15,11 +16,16 @@ The same dimension-independent code handles all three cases.
 
 ## Current scope
 
-The package currently provides two small data structures:
+The package currently provides four small layers:
 
 - `Cell` identifies one cell by its refinement level and integer grid index;
 - `AdaptiveTree` owns the current leaf cells and implements refinement,
   coarsening, face-neighbour queries, point lookup, and optional 2:1 balancing.
+- `Obstacle2D` plus the geometry-adaptation utilities refine around a circle,
+  NACA four-digit airfoil, or any valid closed polyline, then conservatively clip
+  cut cells onto that boundary.
+- `aicfd.visualization` renders those discretizations as self-contained SVG files,
+  colored by tree level, cell classification, or fluid fraction.
 
 This is an educational reference implementation. It favors direct algorithms and
 clear invariants over performance. In particular, neighbour searches are currently
@@ -64,11 +70,27 @@ not as the owner of this package's mesh representation.
 
 For a beginner-oriented explanation of the tree algorithms, see
 [`docs/learning/01-adaptive-cartesian-trees.md`](docs/learning/01-adaptive-cartesian-trees.md).
+The next guide explains
+[`geometry-driven AMR and snapping`](docs/learning/02-geometry-driven-amr.md).
+The third explains the
+[`SVG visualization layers`](docs/learning/03-visualizing-geometry.md), and the
+research notes record what we found about the historical
+[`OpenFOAM dolphin mesh`](docs/research/01-openfoam-dolphin.md).
+
+The geometry-only example produces a small SVG preview and runs no CFD solver:
+
+```bash
+uv run python examples/geometry_amr.py --shape circle --output circle.svg
+uv run python examples/geometry_amr.py --shape naca0012 --output naca0012.svg
+uv run python examples/geometry_amr.py --shape naca0012 --show-points \
+  --show-normals --color-by fluid_fraction --output naca0012-debug.svg
+```
 
 ## Near-term roadmap
 
-1. Add conservative scalar-field transfer during refinement and coarsening.
-2. Build physical face segments across coarse-fine interfaces.
-3. Implement a manufactured scalar advection-diffusion problem.
-4. Add offline OpenFOAM snapshot readers and projection utilities.
-5. Introduce deterministic, then learned, refinement policies.
+1. Add narrow-gap detection and a generic polyline/STL-section importer.
+2. Add conservative scalar-field transfer during refinement and coarsening.
+3. Build physical face segments across coarse-fine and cut-cell interfaces.
+4. Implement a manufactured scalar advection-diffusion problem.
+5. Add offline OpenFOAM snapshot readers and projection utilities.
+6. Introduce solution-aware deterministic, then learned, refinement policies.

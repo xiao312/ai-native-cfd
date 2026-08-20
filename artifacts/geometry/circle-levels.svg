@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000.000 524.000" width="1000" height="524">
+<title>ai-native-cfd adaptive geometry: circle</title>
+<desc>Adaptive Cartesian leaves with optional embedded-boundary data.</desc>
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<g class="cells">
+<g class="cell" data-cell-id="2D:L2:M0" data-level="2" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L2:M0; level=2; classification=fluid; fluid_fraction=1</title>
+<rect x="24.000000" y="381.000000" width="238.000000" height="119.000000" fill="#bfdbfe" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M4" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M4; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="440.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M5" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M5; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="440.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M6" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M6; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="381.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M28" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M28; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="410.750000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M29" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M29; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="440.500000" y="410.750000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M30" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M30; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="381.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M31" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M31; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="440.500000" y="381.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M8" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M8; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="24.000000" y="321.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M9" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M9; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="143.000000" y="321.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M10" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M10; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="24.000000" y="262.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M11" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M11; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="143.000000" y="262.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M48" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M48; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="351.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M49" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M49; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="351.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M50" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M50; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="321.500000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M51" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M51; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="321.500000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M208" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M208; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="366.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M209" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M209; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="410.750000" y="366.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M210" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M210; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="351.250000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M211" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M211; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="410.750000" y="351.250000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M212" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M212; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="440.500000" y="366.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M213" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M213; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="470.250000" y="366.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M856" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M856; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="440.500000" y="358.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M857" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M857; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="455.375000" y="358.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M858" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M858; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="440.500000" y="351.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M859" data-level="6" data-classification="cut" data-fluid-fraction="0.98242338527">
+<title>2D:L6:M859; level=6; classification=cut; fluid_fraction=0.98242338527</title>
+<rect x="455.375000" y="351.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M860" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M860; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="470.250000" y="358.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M861" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M861; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="485.125000" y="358.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M862" data-level="6" data-classification="cut" data-fluid-fraction="0.575684493133">
+<title>2D:L6:M862; level=6; classification=cut; fluid_fraction=0.575684493133</title>
+<rect x="470.250000" y="351.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M863" data-level="6" data-classification="cut" data-fluid-fraction="0.256770329909">
+<title>2D:L6:M863; level=6; classification=cut; fluid_fraction=0.256770329909</title>
+<rect x="485.125000" y="351.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M216" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M216; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="336.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M217" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M217; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="410.750000" y="336.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M218" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M218; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="321.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M876" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M876; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="410.750000" y="328.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M877" data-level="6" data-classification="cut" data-fluid-fraction="0.719584137284">
+<title>2D:L6:M877; level=6; classification=cut; fluid_fraction=0.719584137284</title>
+<rect x="425.625000" y="328.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M878" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M878; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="410.750000" y="321.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M879" data-level="6" data-classification="cut" data-fluid-fraction="0.222099410388">
+<title>2D:L6:M879; level=6; classification=cut; fluid_fraction=0.222099410388</title>
+<rect x="425.625000" y="321.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M880" data-level="6" data-classification="cut" data-fluid-fraction="0.958681273589">
+<title>2D:L6:M880; level=6; classification=cut; fluid_fraction=0.958681273589</title>
+<rect x="440.500000" y="343.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M881" data-level="6" data-classification="cut" data-fluid-fraction="0.256029615175">
+<title>2D:L6:M881; level=6; classification=cut; fluid_fraction=0.256029615175</title>
+<rect x="455.375000" y="343.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M882" data-level="6" data-classification="cut" data-fluid-fraction="0.352548360284">
+<title>2D:L6:M882; level=6; classification=cut; fluid_fraction=0.352548360284</title>
+<rect x="440.500000" y="336.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M883" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M883; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="455.375000" y="336.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M221" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M221; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="470.250000" y="336.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M888" data-level="6" data-classification="cut" data-fluid-fraction="7.46896037379e-05">
+<title>2D:L6:M888; level=6; classification=cut; fluid_fraction=7.46896037379e-05</title>
+<rect x="440.500000" y="328.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M889" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M889; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="455.375000" y="328.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M890" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M890; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="440.500000" y="321.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M891" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M891; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="455.375000" y="321.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M223" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M223; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="470.250000" y="321.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M56" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M56; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="291.750000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M228" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M228; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="306.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M229" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M229; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="351.250000" y="306.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M230" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M230; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="291.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M231" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M231; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="351.250000" y="291.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M58" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M58; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="262.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M236" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M236; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="276.875000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M237" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M237; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="351.250000" y="276.875000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M238" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M238; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="262.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M239" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M239; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="351.250000" y="262.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M240" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M240; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="306.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M964" data-level="6" data-classification="cut" data-fluid-fraction="0.819207067125">
+<title>2D:L6:M964; level=6; classification=cut; fluid_fraction=0.819207067125</title>
+<rect x="410.750000" y="314.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M965" data-level="6" data-classification="cut" data-fluid-fraction="7.46896037379e-05">
+<title>2D:L6:M965; level=6; classification=cut; fluid_fraction=7.46896037379e-05</title>
+<rect x="425.625000" y="314.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M966" data-level="6" data-classification="cut" data-fluid-fraction="0.492022566748">
+<title>2D:L6:M966; level=6; classification=cut; fluid_fraction=0.492022566748</title>
+<rect x="410.750000" y="306.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M967" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M967; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="425.625000" y="306.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M968" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M968; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="299.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M969" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M969; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="395.875000" y="299.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M970" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M970; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="291.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M971" data-level="6" data-classification="cut" data-fluid-fraction="0.98242338527">
+<title>2D:L6:M971; level=6; classification=cut; fluid_fraction=0.98242338527</title>
+<rect x="395.875000" y="291.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M972" data-level="6" data-classification="cut" data-fluid-fraction="0.225808553263">
+<title>2D:L6:M972; level=6; classification=cut; fluid_fraction=0.225808553263</title>
+<rect x="410.750000" y="299.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M973" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M973; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="425.625000" y="299.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M974" data-level="6" data-classification="cut" data-fluid-fraction="0.0302210619117">
+<title>2D:L6:M974; level=6; classification=cut; fluid_fraction=0.0302210619117</title>
+<rect x="410.750000" y="291.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M975" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M975; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="425.625000" y="291.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M244" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M244; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="440.500000" y="306.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M245" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M245; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="470.250000" y="306.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M246" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M246; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="440.500000" y="291.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M247" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M247; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="470.250000" y="291.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M992" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M992; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="284.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M993" data-level="6" data-classification="cut" data-fluid-fraction="0.848172829383">
+<title>2D:L6:M993; level=6; classification=cut; fluid_fraction=0.848172829383</title>
+<rect x="395.875000" y="284.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M994" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M994; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="276.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M995" data-level="6" data-classification="cut" data-fluid-fraction="0.727511663751">
+<title>2D:L6:M995; level=6; classification=cut; fluid_fraction=0.727511663751</title>
+<rect x="395.875000" y="276.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M249" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M249; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="410.750000" y="276.875000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1000" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1000; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="269.437500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1001" data-level="6" data-classification="cut" data-fluid-fraction="0.648150274844">
+<title>2D:L6:M1001; level=6; classification=cut; fluid_fraction=0.648150274844</title>
+<rect x="395.875000" y="269.437500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1002" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1002; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="262.000000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1003" data-level="6" data-classification="cut" data-fluid-fraction="0.608620055065">
+<title>2D:L6:M1003; level=6; classification=cut; fluid_fraction=0.608620055065</title>
+<rect x="395.875000" y="262.000000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M251" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M251; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="410.750000" y="262.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M63" data-level="4" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L4:M63; level=4; classification=solid; fluid_fraction=0</title>
+<rect x="440.500000" y="262.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M16" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M16; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="500.000000" y="440.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M17" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M17; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="440.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M72" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M72; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="500.000000" y="410.750000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M73" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M73; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="559.500000" y="410.750000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M74" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M74; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="500.000000" y="381.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M75" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M75; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="559.500000" y="381.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M19" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M19; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="381.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L2:M5" data-level="2" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L2:M5; level=2; classification=fluid; fluid_fraction=1</title>
+<rect x="738.000000" y="381.000000" width="238.000000" height="119.000000" fill="#bfdbfe" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M384" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M384; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="500.000000" y="366.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M385" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M385; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="529.750000" y="366.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1544" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1544; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="500.000000" y="358.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1545" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1545; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="514.875000" y="358.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1546" data-level="6" data-classification="cut" data-fluid-fraction="0.256770329909">
+<title>2D:L6:M1546; level=6; classification=cut; fluid_fraction=0.256770329909</title>
+<rect x="500.000000" y="351.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1547" data-level="6" data-classification="cut" data-fluid-fraction="0.575684493133">
+<title>2D:L6:M1547; level=6; classification=cut; fluid_fraction=0.575684493133</title>
+<rect x="514.875000" y="351.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1548" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1548; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="529.750000" y="358.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1549" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1549; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="544.625000" y="358.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1550" data-level="6" data-classification="cut" data-fluid-fraction="0.98242338527">
+<title>2D:L6:M1550; level=6; classification=cut; fluid_fraction=0.98242338527</title>
+<rect x="529.750000" y="351.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1551" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1551; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="544.625000" y="351.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M388" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M388; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="559.500000" y="366.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M389" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M389; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="366.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M390" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M390; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="559.500000" y="351.250000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M391" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M391; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="351.250000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M392" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M392; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="500.000000" y="336.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1572" data-level="6" data-classification="cut" data-fluid-fraction="0.256029615175">
+<title>2D:L6:M1572; level=6; classification=cut; fluid_fraction=0.256029615175</title>
+<rect x="529.750000" y="343.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1573" data-level="6" data-classification="cut" data-fluid-fraction="0.958681273589">
+<title>2D:L6:M1573; level=6; classification=cut; fluid_fraction=0.958681273589</title>
+<rect x="544.625000" y="343.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1574" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M1574; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="529.750000" y="336.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1575" data-level="6" data-classification="cut" data-fluid-fraction="0.352548360284">
+<title>2D:L6:M1575; level=6; classification=cut; fluid_fraction=0.352548360284</title>
+<rect x="544.625000" y="336.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M394" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M394; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="500.000000" y="321.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1580" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M1580; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="529.750000" y="328.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1581" data-level="6" data-classification="cut" data-fluid-fraction="7.46896037379e-05">
+<title>2D:L6:M1581; level=6; classification=cut; fluid_fraction=7.46896037379e-05</title>
+<rect x="544.625000" y="328.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1582" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M1582; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="529.750000" y="321.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1583" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M1583; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="544.625000" y="321.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M396" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M396; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="559.500000" y="336.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M397" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M397; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="336.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1592" data-level="6" data-classification="cut" data-fluid-fraction="0.719584137284">
+<title>2D:L6:M1592; level=6; classification=cut; fluid_fraction=0.719584137284</title>
+<rect x="559.500000" y="328.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1593" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1593; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="574.375000" y="328.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1594" data-level="6" data-classification="cut" data-fluid-fraction="0.222099410388">
+<title>2D:L6:M1594; level=6; classification=cut; fluid_fraction=0.222099410388</title>
+<rect x="559.500000" y="321.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1595" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1595; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="574.375000" y="321.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M399" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M399; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="321.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M100" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M100; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="351.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M101" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M101; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="678.500000" y="351.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M102" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M102; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="321.500000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M103" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M103; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="678.500000" y="321.500000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M416" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M416; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="500.000000" y="306.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M417" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M417; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="529.750000" y="306.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M418" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M418; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="500.000000" y="291.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M419" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M419; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="529.750000" y="291.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1680" data-level="6" data-classification="cut" data-fluid-fraction="7.46896037379e-05">
+<title>2D:L6:M1680; level=6; classification=cut; fluid_fraction=7.46896037379e-05</title>
+<rect x="559.500000" y="314.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1681" data-level="6" data-classification="cut" data-fluid-fraction="0.819207067125">
+<title>2D:L6:M1681; level=6; classification=cut; fluid_fraction=0.819207067125</title>
+<rect x="574.375000" y="314.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1682" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M1682; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="559.500000" y="306.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1683" data-level="6" data-classification="cut" data-fluid-fraction="0.492022566748">
+<title>2D:L6:M1683; level=6; classification=cut; fluid_fraction=0.492022566748</title>
+<rect x="574.375000" y="306.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M421" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M421; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="306.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1688" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M1688; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="559.500000" y="299.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1689" data-level="6" data-classification="cut" data-fluid-fraction="0.225808553263">
+<title>2D:L6:M1689; level=6; classification=cut; fluid_fraction=0.225808553263</title>
+<rect x="574.375000" y="299.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1690" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M1690; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="559.500000" y="291.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1691" data-level="6" data-classification="cut" data-fluid-fraction="0.0302210619117">
+<title>2D:L6:M1691; level=6; classification=cut; fluid_fraction=0.0302210619117</title>
+<rect x="574.375000" y="291.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1692" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1692; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="299.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1693" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1693; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="299.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1694" data-level="6" data-classification="cut" data-fluid-fraction="0.98242338527">
+<title>2D:L6:M1694; level=6; classification=cut; fluid_fraction=0.98242338527</title>
+<rect x="589.250000" y="291.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1695" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1695; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="291.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M106" data-level="4" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L4:M106; level=4; classification=solid; fluid_fraction=0</title>
+<rect x="500.000000" y="262.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M428" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M428; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="559.500000" y="276.875000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1716" data-level="6" data-classification="cut" data-fluid-fraction="0.848172829383">
+<title>2D:L6:M1716; level=6; classification=cut; fluid_fraction=0.848172829383</title>
+<rect x="589.250000" y="284.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1717" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1717; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="284.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1718" data-level="6" data-classification="cut" data-fluid-fraction="0.727511663751">
+<title>2D:L6:M1718; level=6; classification=cut; fluid_fraction=0.727511663751</title>
+<rect x="589.250000" y="276.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1719" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1719; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="276.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M430" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M430; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="559.500000" y="262.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1724" data-level="6" data-classification="cut" data-fluid-fraction="0.648150274844">
+<title>2D:L6:M1724; level=6; classification=cut; fluid_fraction=0.648150274844</title>
+<rect x="589.250000" y="269.437500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1725" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1725; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="269.437500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1726" data-level="6" data-classification="cut" data-fluid-fraction="0.608620055065">
+<title>2D:L6:M1726; level=6; classification=cut; fluid_fraction=0.608620055065</title>
+<rect x="589.250000" y="262.000000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M1727" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M1727; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="262.000000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M432" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M432; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="306.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M433" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M433; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="648.750000" y="306.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M434" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M434; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="291.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M435" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M435; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="648.750000" y="291.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M109" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M109; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="678.500000" y="291.750000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M440" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M440; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="276.875000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M441" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M441; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="648.750000" y="276.875000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M442" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M442; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="262.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M443" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M443; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="648.750000" y="262.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M111" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M111; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="678.500000" y="262.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M28" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M28; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="738.000000" y="321.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M29" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M29; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="857.000000" y="321.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M30" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M30; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="738.000000" y="262.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M31" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M31; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="857.000000" y="262.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M32" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M32; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="24.000000" y="202.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M33" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M33; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="143.000000" y="202.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M34" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M34; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="24.000000" y="143.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M35" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M35; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="143.000000" y="143.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M144" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M144; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="232.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M580" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M580; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="247.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M581" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M581; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="351.250000" y="247.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M582" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M582; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="232.250000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M583" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M583; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="351.250000" y="232.250000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M146" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M146; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="202.500000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M588" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M588; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="217.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M589" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M589; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="351.250000" y="217.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M590" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M590; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="202.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M591" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M591; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="351.250000" y="202.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2368" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2368; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="254.562500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2369" data-level="6" data-classification="cut" data-fluid-fraction="0.608620055065">
+<title>2D:L6:M2369; level=6; classification=cut; fluid_fraction=0.608620055065</title>
+<rect x="395.875000" y="254.562500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2370" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2370; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="247.125000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2371" data-level="6" data-classification="cut" data-fluid-fraction="0.648150274844">
+<title>2D:L6:M2371; level=6; classification=cut; fluid_fraction=0.648150274844</title>
+<rect x="395.875000" y="247.125000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M593" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M593; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="410.750000" y="247.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2376" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2376; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="239.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2377" data-level="6" data-classification="cut" data-fluid-fraction="0.727511663751">
+<title>2D:L6:M2377; level=6; classification=cut; fluid_fraction=0.727511663751</title>
+<rect x="395.875000" y="239.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2378" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2378; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="232.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2379" data-level="6" data-classification="cut" data-fluid-fraction="0.848172829383">
+<title>2D:L6:M2379; level=6; classification=cut; fluid_fraction=0.848172829383</title>
+<rect x="395.875000" y="232.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M595" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M595; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="410.750000" y="232.250000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M149" data-level="4" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L4:M149; level=4; classification=solid; fluid_fraction=0</title>
+<rect x="440.500000" y="232.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2400" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2400; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="224.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2401" data-level="6" data-classification="cut" data-fluid-fraction="0.98242338527">
+<title>2D:L6:M2401; level=6; classification=cut; fluid_fraction=0.98242338527</title>
+<rect x="395.875000" y="224.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2402" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2402; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="217.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2403" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2403; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="395.875000" y="217.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2404" data-level="6" data-classification="cut" data-fluid-fraction="0.0302210619117">
+<title>2D:L6:M2404; level=6; classification=cut; fluid_fraction=0.0302210619117</title>
+<rect x="410.750000" y="224.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2405" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M2405; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="425.625000" y="224.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2406" data-level="6" data-classification="cut" data-fluid-fraction="0.225808553263">
+<title>2D:L6:M2406; level=6; classification=cut; fluid_fraction=0.225808553263</title>
+<rect x="410.750000" y="217.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2407" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M2407; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="425.625000" y="217.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M602" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M602; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="202.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2412" data-level="6" data-classification="cut" data-fluid-fraction="0.492022566748">
+<title>2D:L6:M2412; level=6; classification=cut; fluid_fraction=0.492022566748</title>
+<rect x="410.750000" y="209.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2413" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M2413; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="425.625000" y="209.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2414" data-level="6" data-classification="cut" data-fluid-fraction="0.819207067125">
+<title>2D:L6:M2414; level=6; classification=cut; fluid_fraction=0.819207067125</title>
+<rect x="410.750000" y="202.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2415" data-level="6" data-classification="cut" data-fluid-fraction="7.46896037379e-05">
+<title>2D:L6:M2415; level=6; classification=cut; fluid_fraction=7.46896037379e-05</title>
+<rect x="425.625000" y="202.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M604" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M604; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="440.500000" y="217.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M605" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M605; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="470.250000" y="217.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M606" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M606; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="440.500000" y="202.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M607" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M607; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="470.250000" y="202.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M152" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M152; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="172.750000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M153" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M153; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="172.750000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M154" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M154; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="143.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M155" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M155; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="321.500000" y="143.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M624" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M624; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="187.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2500" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2500; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="410.750000" y="195.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2501" data-level="6" data-classification="cut" data-fluid-fraction="0.222099410388">
+<title>2D:L6:M2501; level=6; classification=cut; fluid_fraction=0.222099410388</title>
+<rect x="425.625000" y="195.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2502" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2502; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="410.750000" y="187.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2503" data-level="6" data-classification="cut" data-fluid-fraction="0.719584137284">
+<title>2D:L6:M2503; level=6; classification=cut; fluid_fraction=0.719584137284</title>
+<rect x="425.625000" y="187.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M626" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M626; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="172.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M627" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M627; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="410.750000" y="172.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2512" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M2512; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="440.500000" y="195.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2513" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M2513; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="455.375000" y="195.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2514" data-level="6" data-classification="cut" data-fluid-fraction="7.46896037379e-05">
+<title>2D:L6:M2514; level=6; classification=cut; fluid_fraction=7.46896037379e-05</title>
+<rect x="440.500000" y="187.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2515" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M2515; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="455.375000" y="187.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M629" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M629; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="470.250000" y="187.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2520" data-level="6" data-classification="cut" data-fluid-fraction="0.352548360284">
+<title>2D:L6:M2520; level=6; classification=cut; fluid_fraction=0.352548360284</title>
+<rect x="440.500000" y="180.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2521" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M2521; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="455.375000" y="180.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2522" data-level="6" data-classification="cut" data-fluid-fraction="0.958681273589">
+<title>2D:L6:M2522; level=6; classification=cut; fluid_fraction=0.958681273589</title>
+<rect x="440.500000" y="172.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2523" data-level="6" data-classification="cut" data-fluid-fraction="0.256029615175">
+<title>2D:L6:M2523; level=6; classification=cut; fluid_fraction=0.256029615175</title>
+<rect x="455.375000" y="172.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M631" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M631; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="470.250000" y="172.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M632" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M632; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="157.875000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M633" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M633; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="410.750000" y="157.875000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M634" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M634; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="143.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M635" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M635; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="410.750000" y="143.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2544" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2544; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="440.500000" y="165.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2545" data-level="6" data-classification="cut" data-fluid-fraction="0.98242338527">
+<title>2D:L6:M2545; level=6; classification=cut; fluid_fraction=0.98242338527</title>
+<rect x="455.375000" y="165.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2546" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2546; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="440.500000" y="157.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2547" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2547; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="455.375000" y="157.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2548" data-level="6" data-classification="cut" data-fluid-fraction="0.575684493133">
+<title>2D:L6:M2548; level=6; classification=cut; fluid_fraction=0.575684493133</title>
+<rect x="470.250000" y="165.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2549" data-level="6" data-classification="cut" data-fluid-fraction="0.256770329909">
+<title>2D:L6:M2549; level=6; classification=cut; fluid_fraction=0.256770329909</title>
+<rect x="485.125000" y="165.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2550" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2550; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="470.250000" y="157.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M2551" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M2551; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="485.125000" y="157.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M638" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M638; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="440.500000" y="143.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M639" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M639; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="470.250000" y="143.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L2:M10" data-level="2" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L2:M10; level=2; classification=fluid; fluid_fraction=1</title>
+<rect x="24.000000" y="24.000000" width="238.000000" height="119.000000" fill="#bfdbfe" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M44" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M44; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="83.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M180" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M180; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="113.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M181" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M181; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="440.500000" y="113.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M182" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M182; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="83.500000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M183" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M183; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="440.500000" y="83.500000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M46" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M46; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="262.000000" y="24.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M47" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M47; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="381.000000" y="24.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M192" data-level="4" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L4:M192; level=4; classification=solid; fluid_fraction=0</title>
+<rect x="500.000000" y="232.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M772" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M772; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="559.500000" y="247.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3092" data-level="6" data-classification="cut" data-fluid-fraction="0.608620055065">
+<title>2D:L6:M3092; level=6; classification=cut; fluid_fraction=0.608620055065</title>
+<rect x="589.250000" y="254.562500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3093" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3093; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="254.562500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3094" data-level="6" data-classification="cut" data-fluid-fraction="0.648150274844">
+<title>2D:L6:M3094; level=6; classification=cut; fluid_fraction=0.648150274844</title>
+<rect x="589.250000" y="247.125000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3095" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3095; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="247.125000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M774" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M774; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="559.500000" y="232.250000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3100" data-level="6" data-classification="cut" data-fluid-fraction="0.727511663751">
+<title>2D:L6:M3100; level=6; classification=cut; fluid_fraction=0.727511663751</title>
+<rect x="589.250000" y="239.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3101" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3101; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="239.687500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3102" data-level="6" data-classification="cut" data-fluid-fraction="0.848172829383">
+<title>2D:L6:M3102; level=6; classification=cut; fluid_fraction=0.848172829383</title>
+<rect x="589.250000" y="232.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3103" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3103; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="232.250000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M776" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M776; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="500.000000" y="217.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M777" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M777; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="529.750000" y="217.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M778" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M778; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="500.000000" y="202.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M779" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M779; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="529.750000" y="202.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3120" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M3120; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="559.500000" y="224.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3121" data-level="6" data-classification="cut" data-fluid-fraction="0.0302210619117">
+<title>2D:L6:M3121; level=6; classification=cut; fluid_fraction=0.0302210619117</title>
+<rect x="574.375000" y="224.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3122" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M3122; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="559.500000" y="217.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3123" data-level="6" data-classification="cut" data-fluid-fraction="0.225808553263">
+<title>2D:L6:M3123; level=6; classification=cut; fluid_fraction=0.225808553263</title>
+<rect x="574.375000" y="217.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3124" data-level="6" data-classification="cut" data-fluid-fraction="0.98242338527">
+<title>2D:L6:M3124; level=6; classification=cut; fluid_fraction=0.98242338527</title>
+<rect x="589.250000" y="224.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3125" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3125; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="224.812500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3126" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3126; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="217.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3127" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3127; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="604.125000" y="217.375000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3128" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M3128; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="559.500000" y="209.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3129" data-level="6" data-classification="cut" data-fluid-fraction="0.492022566748">
+<title>2D:L6:M3129; level=6; classification=cut; fluid_fraction=0.492022566748</title>
+<rect x="574.375000" y="209.937500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3130" data-level="6" data-classification="cut" data-fluid-fraction="7.46896037379e-05">
+<title>2D:L6:M3130; level=6; classification=cut; fluid_fraction=7.46896037379e-05</title>
+<rect x="559.500000" y="202.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3131" data-level="6" data-classification="cut" data-fluid-fraction="0.819207067125">
+<title>2D:L6:M3131; level=6; classification=cut; fluid_fraction=0.819207067125</title>
+<rect x="574.375000" y="202.500000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M783" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M783; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="202.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M784" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M784; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="247.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M785" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M785; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="648.750000" y="247.125000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M786" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M786; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="232.250000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M787" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M787; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="648.750000" y="232.250000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M197" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M197; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="678.500000" y="232.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M792" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M792; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="217.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M793" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M793; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="648.750000" y="217.375000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M794" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M794; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="202.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M795" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M795; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="648.750000" y="202.500000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M199" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M199; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="678.500000" y="202.500000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M800" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M800; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="500.000000" y="187.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3204" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M3204; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="529.750000" y="195.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3205" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M3205; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="544.625000" y="195.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3206" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M3206; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="529.750000" y="187.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3207" data-level="6" data-classification="cut" data-fluid-fraction="7.46896037379e-05">
+<title>2D:L6:M3207; level=6; classification=cut; fluid_fraction=7.46896037379e-05</title>
+<rect x="544.625000" y="187.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M802" data-level="5" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L5:M802; level=5; classification=solid; fluid_fraction=0</title>
+<rect x="500.000000" y="172.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3212" data-level="6" data-classification="solid" data-fluid-fraction="0">
+<title>2D:L6:M3212; level=6; classification=solid; fluid_fraction=0</title>
+<rect x="529.750000" y="180.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3213" data-level="6" data-classification="cut" data-fluid-fraction="0.352548360284">
+<title>2D:L6:M3213; level=6; classification=cut; fluid_fraction=0.352548360284</title>
+<rect x="544.625000" y="180.187500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3214" data-level="6" data-classification="cut" data-fluid-fraction="0.256029615175">
+<title>2D:L6:M3214; level=6; classification=cut; fluid_fraction=0.256029615175</title>
+<rect x="529.750000" y="172.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3215" data-level="6" data-classification="cut" data-fluid-fraction="0.958681273589">
+<title>2D:L6:M3215; level=6; classification=cut; fluid_fraction=0.958681273589</title>
+<rect x="544.625000" y="172.750000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3216" data-level="6" data-classification="cut" data-fluid-fraction="0.222099410388">
+<title>2D:L6:M3216; level=6; classification=cut; fluid_fraction=0.222099410388</title>
+<rect x="559.500000" y="195.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3217" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3217; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="574.375000" y="195.062500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3218" data-level="6" data-classification="cut" data-fluid-fraction="0.719584137284">
+<title>2D:L6:M3218; level=6; classification=cut; fluid_fraction=0.719584137284</title>
+<rect x="559.500000" y="187.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3219" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3219; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="574.375000" y="187.625000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M805" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M805; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="187.625000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M806" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M806; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="559.500000" y="172.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M807" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M807; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="172.750000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3232" data-level="6" data-classification="cut" data-fluid-fraction="0.256770329909">
+<title>2D:L6:M3232; level=6; classification=cut; fluid_fraction=0.256770329909</title>
+<rect x="500.000000" y="165.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3233" data-level="6" data-classification="cut" data-fluid-fraction="0.575684493133">
+<title>2D:L6:M3233; level=6; classification=cut; fluid_fraction=0.575684493133</title>
+<rect x="514.875000" y="165.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3234" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3234; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="500.000000" y="157.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3235" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3235; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="514.875000" y="157.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3236" data-level="6" data-classification="cut" data-fluid-fraction="0.98242338527">
+<title>2D:L6:M3236; level=6; classification=cut; fluid_fraction=0.98242338527</title>
+<rect x="529.750000" y="165.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3237" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3237; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="544.625000" y="165.312500" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3238" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3238; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="529.750000" y="157.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L6:M3239" data-level="6" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L6:M3239; level=6; classification=fluid; fluid_fraction=1</title>
+<rect x="544.625000" y="157.875000" width="14.875000" height="7.437500" fill="#2563eb" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M810" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M810; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="500.000000" y="143.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M811" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M811; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="529.750000" y="143.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M812" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M812; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="559.500000" y="157.875000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M813" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M813; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="157.875000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M814" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M814; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="559.500000" y="143.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L5:M815" data-level="5" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L5:M815; level=5; classification=fluid; fluid_fraction=1</title>
+<rect x="589.250000" y="143.000000" width="29.750000" height="14.875000" fill="#3b82f6" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M204" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M204; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="172.750000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M205" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M205; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="678.500000" y="172.750000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M206" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M206; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="143.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M207" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M207; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="678.500000" y="143.000000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M52" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M52; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="738.000000" y="202.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M53" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M53; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="857.000000" y="202.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M54" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M54; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="738.000000" y="143.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M55" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M55; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="857.000000" y="143.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M224" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M224; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="500.000000" y="113.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M225" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M225; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="559.500000" y="113.250000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M226" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M226; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="500.000000" y="83.500000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L4:M227" data-level="4" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L4:M227; level=4; classification=fluid; fluid_fraction=1</title>
+<rect x="559.500000" y="83.500000" width="59.500000" height="29.750000" fill="#60a5fa" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M57" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M57; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="83.500000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M58" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M58; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="500.000000" y="24.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L3:M59" data-level="3" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L3:M59; level=3; classification=fluid; fluid_fraction=1</title>
+<rect x="619.000000" y="24.000000" width="119.000000" height="59.500000" fill="#93c5fd" stroke="#475569" stroke-width="0.7"/>
+</g>
+<g class="cell" data-cell-id="2D:L2:M15" data-level="2" data-classification="fluid" data-fluid-fraction="1">
+<title>2D:L2:M15; level=2; classification=fluid; fluid_fraction=1</title>
+<rect x="738.000000" y="24.000000" width="238.000000" height="119.000000" fill="#bfdbfe" stroke="#475569" stroke-width="0.7"/>
+</g>
+</g>
+<g class="obstacle">
+<polygon points="595.200000,262.000000 594.996169,255.773622 594.385551,249.573907 593.370759,243.427401 591.956139,237.360427 590.147748,231.398963 587.953331,225.568537 585.382285,219.894117 582.445618,214.400000 579.155907,209.109714 575.527238,204.045912 571.575150,199.230278 567.316566,194.683434 562.769722,190.424850 557.954088,186.472762 552.890286,182.844093 547.600000,179.554382 542.105883,176.617715 536.431463,174.046669 530.601037,171.852252 524.639573,170.043861 518.572599,168.629241 512.426093,167.614449 506.226378,167.003831 500.000000,166.800000 493.773622,167.003831 487.573907,167.614449 481.427401,168.629241 475.360427,170.043861 469.398963,171.852252 463.568537,174.046669 457.894117,176.617715 452.400000,179.554382 447.109714,182.844093 442.045912,186.472762 437.230278,190.424850 432.683434,194.683434 428.424850,199.230278 424.472762,204.045912 420.844093,209.109714 417.554382,214.400000 414.617715,219.894117 412.046669,225.568537 409.852252,231.398963 408.043861,237.360427 406.629241,243.427401 405.614449,249.573907 405.003831,255.773622 404.800000,262.000000 405.003831,268.226378 405.614449,274.426093 406.629241,280.572599 408.043861,286.639573 409.852252,292.601037 412.046669,298.431463 414.617715,304.105883 417.554382,309.600000 420.844093,314.890286 424.472762,319.954088 428.424850,324.769722 432.683434,329.316566 437.230278,333.575150 442.045912,337.527238 447.109714,341.155907 452.400000,344.445618 457.894117,347.382285 463.568537,349.953331 469.398963,352.147748 475.360427,353.956139 481.427401,355.370759 487.573907,356.385551 493.773622,356.996169 500.000000,357.200000 506.226378,356.996169 512.426093,356.385551 518.572599,355.370759 524.639573,353.956139 530.601037,352.147748 536.431463,349.953331 542.105883,347.382285 547.600000,344.445618 552.890286,341.155907 557.954088,337.527238 562.769722,333.575150 567.316566,329.316566 571.575150,324.769722 575.527238,319.954088 579.155907,314.890286 582.445618,309.600000 585.382285,304.105883 587.953331,298.431463 590.147748,292.601037 591.956139,286.639573 593.370759,280.572599 594.385551,274.426093 594.996169,268.226378 595.200000,262.000000" fill="#334155" fill-opacity="0.22" stroke="#0f172a" stroke-width="2.4" stroke-linejoin="round"/>
+</g>
+<g class="cut-boundaries">
+<polyline points="467.013703,351.250000 469.398963,352.147748 470.250000,352.405908" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="470.250000,352.405908 475.360427,353.956139 481.427401,355.370759 485.125000,355.981235" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="485.125000,355.981235 487.573907,356.385551 493.773622,356.996169 500.000000,357.200000 500.000000,357.200000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="432.328401,328.937500 432.683434,329.316566 437.230278,333.575150 440.500000,336.258541" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="425.741459,321.500000 428.424850,324.769722 432.328401,328.937500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="451.381863,343.812500 452.400000,344.445618 455.375000,346.035789" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="455.375000,346.035789 457.894117,347.382285 463.568537,349.953331 467.013703,351.250000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="440.641906,336.375000 442.045912,337.527238 447.109714,341.155907 451.381863,343.812500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="440.500000,336.258541 440.641906,336.375000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="420.329342,314.062500 420.844093,314.890286 424.472762,319.954088 425.625000,321.358094" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="425.625000,321.358094 425.741459,321.500000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="415.964211,306.625000 417.554382,309.600000 420.329342,314.062500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="409.594092,291.750000 409.852252,292.601037 410.750000,294.986297" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="412.389225,299.187500 414.617715,304.105883 415.964211,306.625000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="410.750000,294.986297 412.046669,298.431463 412.389225,299.187500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="407.501264,284.312500 408.043861,286.639573 409.594092,291.750000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="406.018765,276.875000 406.629241,280.572599 407.501264,284.312500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="405.123116,269.437500 405.614449,274.426093 406.018765,276.875000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="404.800000,262.000000 405.003831,268.226378 405.123116,269.437500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="500.000000,357.200000 506.226378,356.996169 512.426093,356.385551 514.875000,355.981235" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="514.875000,355.981235 518.572599,355.370759 524.639573,353.956139 529.750000,352.405908" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="529.750000,352.405908 530.601037,352.147748 532.986297,351.250000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="532.986297,351.250000 536.431463,349.953331 542.105883,347.382285 544.625000,346.035789" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="544.625000,346.035789 547.600000,344.445618 548.618137,343.812500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="548.618137,343.812500 552.890286,341.155907 557.954088,337.527238 559.358094,336.375000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="559.358094,336.375000 559.500000,336.258541" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="559.500000,336.258541 562.769722,333.575150 567.316566,329.316566 567.671599,328.937500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="567.671599,328.937500 571.575150,324.769722 574.258541,321.500000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="574.258541,321.500000 574.375000,321.358094" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="574.375000,321.358094 575.527238,319.954088 579.155907,314.890286 579.670658,314.062500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="579.670658,314.062500 582.445618,309.600000 584.035789,306.625000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="584.035789,306.625000 585.382285,304.105883 587.610775,299.187500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="587.610775,299.187500 587.953331,298.431463 589.250000,294.986297" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="589.250000,294.986297 590.147748,292.601037 590.405908,291.750000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="590.405908,291.750000 591.956139,286.639573 592.498736,284.312500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="592.498736,284.312500 593.370759,280.572599 593.981235,276.875000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="593.981235,276.875000 594.385551,274.426093 594.876884,269.437500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="594.876884,269.437500 594.996169,268.226378 595.200000,262.000000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="405.123116,254.562500 405.003831,255.773622 404.800000,262.000000 404.800000,262.000000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="406.018765,247.125000 405.614449,249.573907 405.123116,254.562500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="407.501264,239.687500 406.629241,243.427401 406.018765,247.125000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="409.594092,232.250000 408.043861,237.360427 407.501264,239.687500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="410.750000,229.013703 409.852252,231.398963 409.594092,232.250000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="412.389225,224.812500 412.046669,225.568537 410.750000,229.013703" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="415.964211,217.375000 414.617715,219.894117 412.389225,224.812500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="420.329342,209.937500 417.554382,214.400000 415.964211,217.375000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="425.625000,202.641906 424.472762,204.045912 420.844093,209.109714 420.329342,209.937500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="425.741459,202.500000 425.625000,202.641906" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="432.328401,195.062500 428.424850,199.230278 425.741459,202.500000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="440.500000,187.741459 437.230278,190.424850 432.683434,194.683434 432.328401,195.062500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="440.641906,187.625000 440.500000,187.741459" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="451.381863,180.187500 447.109714,182.844093 442.045912,186.472762 440.641906,187.625000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="455.375000,177.964211 452.400000,179.554382 451.381863,180.187500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="467.013703,172.750000 463.568537,174.046669 457.894117,176.617715 455.375000,177.964211" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="470.250000,171.594092 469.398963,171.852252 467.013703,172.750000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="485.125000,168.018765 481.427401,168.629241 475.360427,170.043861 470.250000,171.594092" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="500.000000,166.800000 493.773622,167.003831 487.573907,167.614449 485.125000,168.018765" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="595.200000,262.000000 594.996169,255.773622 594.876884,254.562500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="594.876884,254.562500 594.385551,249.573907 593.981235,247.125000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="593.981235,247.125000 593.370759,243.427401 592.498736,239.687500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="592.498736,239.687500 591.956139,237.360427 590.405908,232.250000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="589.250000,229.013703 587.953331,225.568537 587.610775,224.812500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="587.610775,224.812500 585.382285,219.894117 584.035789,217.375000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="590.405908,232.250000 590.147748,231.398963 589.250000,229.013703" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="584.035789,217.375000 582.445618,214.400000 579.670658,209.937500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="574.375000,202.641906 574.258541,202.500000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="579.670658,209.937500 579.155907,209.109714 575.527238,204.045912 574.375000,202.641906" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="559.500000,187.741459 559.358094,187.625000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="559.358094,187.625000 557.954088,186.472762 552.890286,182.844093 548.618137,180.187500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="544.625000,177.964211 542.105883,176.617715 536.431463,174.046669 532.986297,172.750000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="548.618137,180.187500 547.600000,179.554382 544.625000,177.964211" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="574.258541,202.500000 571.575150,199.230278 567.671599,195.062500" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="567.671599,195.062500 567.316566,194.683434 562.769722,190.424850 559.500000,187.741459" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="514.875000,168.018765 512.426093,167.614449 506.226378,167.003831 500.000000,166.800000 500.000000,166.800000" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="529.750000,171.594092 524.639573,170.043861 518.572599,168.629241 514.875000,168.018765" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+<polyline points="532.986297,172.750000 530.601037,171.852252 529.750000,171.594092" fill="none" stroke="#c2410c" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<g class="legend">
+<rect x="842.000" y="32.000" width="126.000" height="112.000" rx="4" fill="#ffffff" fill-opacity="0.92" stroke="#94a3b8" stroke-width="0.8"/>
+<rect x="850.000" y="40.000" width="14" height="14" fill="#bfdbfe" stroke="#475569" stroke-width="0.6"/>
+<text x="870.000" y="51.500" font-family="sans-serif" font-size="12" fill="#0f172a">level 2</text>
+<rect x="850.000" y="60.000" width="14" height="14" fill="#93c5fd" stroke="#475569" stroke-width="0.6"/>
+<text x="870.000" y="71.500" font-family="sans-serif" font-size="12" fill="#0f172a">level 3</text>
+<rect x="850.000" y="80.000" width="14" height="14" fill="#60a5fa" stroke="#475569" stroke-width="0.6"/>
+<text x="870.000" y="91.500" font-family="sans-serif" font-size="12" fill="#0f172a">level 4</text>
+<rect x="850.000" y="100.000" width="14" height="14" fill="#3b82f6" stroke="#475569" stroke-width="0.6"/>
+<text x="870.000" y="111.500" font-family="sans-serif" font-size="12" fill="#0f172a">level 5</text>
+<rect x="850.000" y="120.000" width="14" height="14" fill="#2563eb" stroke="#475569" stroke-width="0.6"/>
+<text x="870.000" y="131.500" font-family="sans-serif" font-size="12" fill="#0f172a">level 6</text>
+</g>
+</svg>
